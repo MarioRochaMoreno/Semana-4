@@ -134,7 +134,7 @@ p {
   height: 600px;
 } 
 #welcome1 {
-  background: url('/imagenes/fondo.jpg') no-repeat center center/cover;
+  background: url('../imagenes/fondo.jpg') no-repeat center center/cover;
   width: 100%;
   height: 400px;
 }
@@ -228,12 +228,12 @@ p {
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url('/imagenes/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
+  background: url('../imagenes/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 #testimonials1 {
   height: auto;
-  background: url('/imagenes/fondo2.jpg') no-repeat center center/cover;
+  background: url('../imagenes/fondo2.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 #testimonials h2 {
